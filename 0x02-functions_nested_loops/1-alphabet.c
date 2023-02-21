@@ -6,7 +6,7 @@
 	 */
 
 
-	void print_alphabet(void)
+	void print_alpahbet(void)
 	{
 		char letter;
 

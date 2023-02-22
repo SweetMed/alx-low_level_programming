@@ -3,10 +3,13 @@
 /**
  * main - check the code
  *
+ * Description: check the code for ALX School students
+ *
  * Return: Always 0.
  */
+
 int main(void)
 {
-    print_alphabet('a'>'z');
+    print_alphabet();
     return (0);
 }

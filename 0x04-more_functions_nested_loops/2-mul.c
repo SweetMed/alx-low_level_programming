@@ -2,9 +2,9 @@
 
 /**
  * mul - checks for check for a digit(0 through 9).
- * @a: a - variable
+ * @a: a - Variable
  * @b: b - variable
- * return: always 0.
+ * Return: Always 0.
  */
 int mul(int a, int b)
 {

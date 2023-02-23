@@ -3,7 +3,7 @@
 /**
  * print_numbers - checks for checks for digit (0 through 9).
  *
- * Return: always 0.
+ * Return: Always 0.
  */
 void print_numbers(void)
 {

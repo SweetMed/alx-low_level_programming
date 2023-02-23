@@ -11,7 +11,7 @@ void print_numbers(void)
 
 	for (c = 18; c < 28; c++)
 	{
-		_putchar(c);
+	_putchar(c);
 	}
 	_putchar('\n');
 }
